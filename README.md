@@ -88,7 +88,7 @@ python src/api.py
 
 ---
 
-## API (for grader/evaluator)
+## API
 
 ### POST `/query`
 
