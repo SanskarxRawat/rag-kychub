@@ -1,0 +1,12 @@
+flask
+sentence-transformers
+ujson
+numpy
+tqdm
+requests
+beautifulsoup4
+rank-bm25
+scikit-learn
+hnswlib
+anthropic
+python-dotenv
