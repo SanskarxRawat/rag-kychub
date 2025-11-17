@@ -217,7 +217,4 @@
   <text x="600" y="1170" class="small-text">├── api.py (Flask REST API)</text>
   <text x="600" y="1190" class="small-text">├── data/raw_pages.jsonl</text>
   <text x="600" y="1210" class="small-text">└── data/index/ (vectors + metadata)</text>
-
-  <!-- Footer -->
-  <text x="600" y="1280" text-anchor="middle" class="small-text" fill="#888">KYCHub RAG System • Built with Claude Sonnet 4 • Hybrid Retrieval Architecture</text>
 </svg>
