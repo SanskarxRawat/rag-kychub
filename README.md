@@ -1,4 +1,4 @@
-# RAG system for KYCHub — README
+# RAG system for KYCHub
 
 This repository implements a Retrieval-Augmented Generation (RAG) pipeline over content scraped from **kychub.com**.
 It includes a deterministic scraper, sentence-aware chunking + indexing, semantic & keyword retrieval, and a Claude-backed generator that returns grounded answers.
